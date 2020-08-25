@@ -6,8 +6,7 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-
-RamenShop.create(name: "1020")
-RamenShop.create(name: "開楽")
-RamenShop.create(name: "武蔵")
-RamenShop.create(name: "鯛ラーメン")
+RamenShop.create(name: '1020')
+RamenShop.create(name: '開楽')
+RamenShop.create(name: '武蔵')
+RamenShop.create(name: '鯛ラーメン')
